@@ -1,2 +1,1 @@
-# to-do-list
-Created with CodeSandbox
+#To.Do
