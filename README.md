@@ -2,7 +2,9 @@
 
  <div align="center">
   <img src="https://github.com/palomavila/to-do-list/blob/main/github/logo.png" title="Logo" />
-# TO. DO LIST 🚀
+
+## TO. DO LIST 🚀
+
 ## 💻Tecnologias mais utilizadas:
 
  <p>Typescript</p>
