@@ -1,16 +1,16 @@
 <div align="center">
-# TO. DO LIST
+# TO. DO LIST 🚀
  <div align="center">
   <img src="https://github.com/palomavila/to-do-list/blob/main/github/logo.png" title="Logo" />
 
 ## 💻Tecnologias mais utilizadas:
 
-- Typescript
-- ReactJs
+ <p>Typescript</p>
+ <p>ReactJs</p>
 
 ## 💻 Layout:
 
-- Este projeto foi realizado com as instruções do [Diego Fernandes](https://github.com/rocketseat-education/) da Rocketseat.
+Este projeto foi realizado com as instruções do [Diego Fernandes](https://github.com/rocketseat-education/) da Rocketseat.
 
 ## 💻 Demo :
 
