@@ -1,6 +1,6 @@
+<div align="center">
 # TO. DO LIST
-
-  <div align="left">
+ <div align="center">
   <img src="https://github.com/palomavila/to-do-list/blob/main/github/logo.png" title="Logo" />
 
 ## 💻Tecnologias mais utilizadas:
@@ -14,7 +14,6 @@
 
 ## 💻 Demo :
 
-  <div align="left">
   <img src="https://github.com/palomavila/to-do-list/blob/main/github/task.gif" title="Screen" />
 
 ## 💻 Licence:
@@ -23,4 +22,4 @@ Este projeto possui licença do [MIT](https://github.com/palomavila/to-do-list/b
 
 ---
 
-<p align="left">Made by Paloma ➰</p>
+<p align="center">Made by Paloma ➰</p>
